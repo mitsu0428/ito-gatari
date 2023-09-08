@@ -1,0 +1,25 @@
+{
+  "window.zoomLevel": -1,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.prettier": true
+  },
+  "editor.fontSize": 16,
+  "editor.fontFamily": "Hack, 'Noto Sans JP', monospace",
+  "editor.letterSpacing": -0.4,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "block",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "all",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontFamily": "Hack, 'Noto Sans JP', monospace",
+  "terminal.integrated.fontWeightBold": "normal",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.indent": 20,
+  "workbench.reduceMotion": "on",
+  "workbench.editor.untitled.hint": "hidden"
+}
